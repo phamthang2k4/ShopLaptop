@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|c:\\users\\os\\source\\repos\\shoplaptop\\shoplaptop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|solutionrelative:shoplaptop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|c:\\users\\os\\source\\repos\\shoplaptop\\shoplaptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|solutionrelative:shoplaptop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|c:\\users\\os\\source\\repos\\shoplaptop\\shoplaptop\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|solutionrelative:shoplaptop\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|c:\\users\\os\\source\\repos\\shoplaptop\\shoplaptop\\views\\shared\\_layoutshoplaptop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96FF12C3-2126-4290-BE64-8154E525C043}|ShopLaptop\\ShopLaptop.csproj|solutionrelative:shoplaptop\\views\\shared\\_layoutshoplaptop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QlbanVaLiContext.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Models\\QlbanVaLiContext.cs",
+              "RelativeDocumentMoniker": "ShopLaptop\\Models\\QlbanVaLiContext.cs",
+              "ToolTip": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Models\\QlbanVaLiContext.cs",
+              "RelativeToolTip": "ShopLaptop\\Models\\QlbanVaLiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:25:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShopLaptop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShopLaptop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:08:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopLaptop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopLaptop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:51:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutShopLaptop.cshtml",
+              "DocumentMoniker": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Views\\Shared\\_LayoutShopLaptop.cshtml",
+              "RelativeDocumentMoniker": "ShopLaptop\\Views\\Shared\\_LayoutShopLaptop.cshtml",
+              "ToolTip": "C:\\Users\\OS\\source\\repos\\ShopLaptop\\ShopLaptop\\Views\\Shared\\_LayoutShopLaptop.cshtml",
+              "RelativeToolTip": "ShopLaptop\\Views\\Shared\\_LayoutShopLaptop.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwF0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:49:01.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

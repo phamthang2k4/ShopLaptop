@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutShopLaptop.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.PagedList<TDanhMucSp>
+@foreach (var item in Model)
+{
+    <div class="col l-3 m-m-b-20 c-12">
+        <div class="place__item">
+            <div class="place__bg" style="padding-top: 15px;">
+                <img src="@Url.Content("../Images/" + item.AnhDaiDien)" alt="" class="place__img">
+
+            </div>
+            <div class="place__info" style="padding: 0; text-align:center ">
+                <header class="place__header">
+                    <h3 class="place__heading">@item.TenSp</h3>
+                    <p class="place__location">
+                        <i class="ri-map-pin-line"></i> Laptop Asus ZenBook UX425EA i5 1135G7/8GB/512GB/Cáp/Túi/Win11 (KI839W)
+                    </p>
+                </header>
+                <div class="place__price" style="padding: 20px;">
+                    <div class="place__price-right">
+                        <span class="" style="color: red; font-size: 23px; padding: 10px;">Giá:</span>
+                        <span class="place__price-current">@item.GiaNhoNhat</span>
+                    </div>
+                </div>
+                <footer class="place__footer">
+                    <a href="" class="place__btn bg__color--berlin">Chi tiết</a>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+}
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>
+
