@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "LayoutOgani";
+}
+@*model List<TDanhMucSp>*@
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TDanhMucSp>
+
+@foreach (var sp in Model)
+{
+    @await Html.PartialAsync("PartialProduct", sp)
+}
+
+
+    <div class="product__pagination">
+       @Html.PagedListPager(Model, page=>Url.Action("Index", new{page=page}))
+    </div>
+
+
